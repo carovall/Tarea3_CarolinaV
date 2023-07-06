@@ -1,1 +1,3 @@
-# Tarea3_CarolinaV
+copiar y pegar comandos en terminal:
+  make
+  make run
