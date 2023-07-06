@@ -1,3 +1,3 @@
-copiar y pegar comandos en terminal:
-  make
-  make run
+# copiar y pegar comandos en terminal:
+#    make
+#    make run
